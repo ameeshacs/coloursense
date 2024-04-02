@@ -122,6 +122,9 @@ body {
 }
 
 .login-header {
+  font-family: "Castoro", serif;
+  font-weight: bold;
+  font-style: normal; /* Use the custom font family */
   font-size: 25px;
   padding-bottom: 0px;
   margin-top: 10px;
